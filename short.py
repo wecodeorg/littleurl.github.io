@@ -14,7 +14,7 @@ def main():
     os.mkdir('public')
 
     with open('public/CNAME', 'w') as f:
-        f.write('ankitwarbhe.me')
+        f.write('littleurl.tech')
 
     for link in links:
         html_document = html.format(url=link['url'])
