@@ -2,7 +2,7 @@
 # [LITTLE URL](https://littleurl.tech) &middot; [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/littleurl/littleurl.github.io/blob/master/LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/littleurl/littleurl.github.io/) ![Little url shotner](https://github.com/littleurl/littleurl.github.io/workflows/Little%20url%20shotner/badge.svg) <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
 **(Makes your URL Short)**
 
-The first url shortner for personal use build with (python+Github Actions) 
+The first url shortner build with  **(python+Github Actions)** for personal use 
 
 ## How it work's ?
 It works as a url redirector the default domain is set inside the [short.py](https://github.com/littleurl/littleurl.github.io/blob/master/short.py) ie.littleurl.tech and CNAME File. The custom short url are to be placed in [urls.json](https://github.com/littleurl/littleurl.github.io/blob/master/urls.json) file which could be generated with our [custom JSON Generator](https://littleurl.netlify.app/#jsongenrator). As soon as the JSON file is edited with New url, github Actions does its job [little url shortner workflow](https://github.com/littleurl/littleurl.github.io/actions?query=workflow%3A%22Little+url+shotner%22) starts running and a new html file is generated in [gh-pages branch](https://github.com/littleurl/littleurl.github.io/tree/gh-pages) with the url redirect. 
