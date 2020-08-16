@@ -17,7 +17,7 @@ body {
 
 .line {
       position: relative;
-      top: 10%;
+      top: 20%;
       width: 16em;
       margin: 0 auto;
       border-right: 2px solid rgba(255, 255, 255, 0.75);
