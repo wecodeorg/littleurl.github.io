@@ -4,7 +4,7 @@
 
 The first url shortner for personal use build with (python+Github Actions) 
 
-## How does it work ?
+## How it work's ?
 It works as a url redirector the default domain is set inside the [short.py](https://github.com/littleurl/littleurl.github.io/blob/master/short.py) ie.littleurl.tech and the CNAME File. The custom short url are to placed in [urls.json](https://github.com/littleurl/littleurl.github.io/blob/master/urls.json) file which could be generated with our [custom JSON Generator](https://littleurl.tech/#jsongenrator). As soon as the JSON file is edited with New url, github Actions does it job [little url shortner workflow](https://github.com/littleurl/littleurl.github.io/actions?query=workflow%3A%22Little+url+shotner%22) starts running and a new html fine is generated in [gh-pages branch](https://github.com/littleurl/littleurl.github.io/tree/gh-pages) with the url redirection. 
 
 ## Requirments (To set Your own)
