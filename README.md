@@ -1,5 +1,5 @@
 
-# [LITTLE URL](https://littleurl.tech) &middot; [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/littleurl/littleurl.github.io/blob/master/LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/littleurl/littleurl.github.io/) <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+# [LITTLE URL](https://littleurl.tech) &middot; [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/littleurl/littleurl.github.io/blob/master/LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/littleurl/littleurl.github.io/) ![Little url shotner](https://github.com/littleurl/littleurl.github.io/workflows/Little%20url%20shotner/badge.svg) <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
 **(Makes your URL Short)**
 
 The first url shortner for personal use build with (python+Github Actions) 
