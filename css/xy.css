@@ -30,7 +30,7 @@ body {
 /*Animation*/
 
 .anim-typewriter {
-      animation: typewriter 4s steps(40) 1s 1 normal both,
+      animation: typewriter 10s steps(40) 1s 3 normal both,
       blinkTextCursor 500ms steps(40) infinite normal;
 }
 
