@@ -16,7 +16,7 @@ It works as a url redirector the default domain is set inside the [short.py](htt
 * Shorten url:- https://littleurl.tech/comvis
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 * Original url:-https://www.huffpost.com/entry/jiff-the-dog-wins-halloween_n_56327e41e4b00aa54a4d7a89?ncid=fcbklnkushpmg00000022&utm_content=buffer83279&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer&guccounter=1
-* Shorten url:-https://littleurl.tech/jiffthedog
+* Shorten url:-[url](https://littleurl.netlify.app/jiffthedog)
 
 ## Purpose
 The main purpose of this repository is to make use of github actions to make this task automated , making it faster and easier to use.
